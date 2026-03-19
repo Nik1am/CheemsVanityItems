@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheemsVanityItems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eeeefcf329f6d0ebe9b3335b84ca7c86986c3b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheemsVanityItems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheemsVanityItems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
