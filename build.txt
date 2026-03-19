@@ -1,0 +1,3 @@
+displayName = CheemsDFI&#39;s Vanity Items
+author = CheemsDFI
+version = 0.1

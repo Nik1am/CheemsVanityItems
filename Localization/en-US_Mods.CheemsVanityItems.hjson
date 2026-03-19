@@ -1,0 +1,13 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	DrPigeonHead: {
+		DisplayName: Dr. Pigeon's Head
+		Tooltip: Aura level: 9000.
+	}
+
+	RedBirdEar: {
+		DisplayName: Red Bird Ear
+		Tooltip: ""
+	}
+}
